@@ -1,0 +1,6 @@
+First name: Rick
+Last name: Scott
+User ID: ILuvFlorida
+Picture: http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/n_hayes_1fl_130718.jpg
+Website: https://en.wikipedia.org/wiki/Rick_Scott
+Website description: Read my wiki!
